@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Todo App
 
 This project contains a simple todo app
@@ -19,3 +20,6 @@ If somehow our node_modules are deleted then npm install will install all the de
 
 
 
+=======
+# FullStackTodoApp
+>>>>>>> 98125eb47d58f4da59fd8ba8f8c4897a245130a9
